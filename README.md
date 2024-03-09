@@ -1,2 +1,2 @@
 # restaurant-react-Project
-I used MaterialUI for the icons on my website and ReactJS for the rest, then React-router-dom to assist me navigate the pages.
+ I have used reactjs for entire website and material ui for icons next i used react-router-dom(helps me to navigate pages).We are currently making modifications to this page. 
